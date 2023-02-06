@@ -1,0 +1,23 @@
+h1{
+    color:red;
+
+}
+    
+a{
+    text-align: none;
+    cursor: grab;
+}
+#first{
+   color:blue;
+}
+ .fir{
+    color: pink;
+ }
+ .box{
+    color:brown;
+    margin:5px ;
+    padding: 5px;
+    border-style: dotted;
+    display: flex;
+    justify-content: center;
+ }
