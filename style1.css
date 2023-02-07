@@ -1,8 +1,35 @@
 
 
-color:brown;
-    margin:5px ;
-    padding: 5px;
-    border-style: dotted;
+#first
+
+    margin: 50px ;
+    padding: 50px;
     display: flex;
     justify-content: center;
+    align-item: center;
+    color:brown;
+
+
+    .nav{
+         display: flex;
+         justify-content: flex-end;
+         color: rgb(178, 8,8)
+    }
+
+
+    #ab{
+         color: rgb(157, 10 ,10 );
+    }
+
+    #third{
+         display: flex;
+         justify-content: center;
+         margin: 0;
+    }
+
+    #last{
+         margin: 60px;
+         padding:60px;
+         display: flex;
+         justify-content: center;
+    }

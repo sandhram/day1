@@ -1,0 +1,56 @@
+
+body{
+    margin: 0px;
+    padding: 0px;
+
+}
+.web{
+    padding: 100px; 
+    text-align: center; 
+    background: #1a5bbc; 
+    color: white;
+}
+.home{
+    margin:8px;
+    padding-top: 20px;
+
+    font-size:20px;
+      
+}
+.contact{
+    margin-left: 500px;
+    padding:20px;
+    background-color: palevioletred;
+    font-size: 20px;
+
+}
+#para1{
+    font-size: 30px;
+    font-weight: bold;
+}
+#para2{
+   margin-bottom: 0px;
+}
+#image{
+    size: 60px;
+}
+.ct{
+    text-align: center;
+    padding-top: 200px;
+}
+
+a{
+    color: #fff;
+    text-decoration: none;
+}
+
+ul{
+    display: flex;
+    flex-direction: row;
+    justify-content: start;
+}
+li{
+    list-style: none;
+    padding-left: 20px;
+
+}

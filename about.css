@@ -1,0 +1,18 @@
+body{
+    background-size: 100%;
+}
+
+
+.aboutBody{
+background: #ABC7E7;
+background: -webkit-linear-gradient(top left, #ABC7E7, #52564C);
+background: -moz-linear-gradient(top left, #ABC7E7, #52564C);
+background: linear-gradient(to bottom right, #ABC7E7, #52564C);
+background-repeat: no-repeat;
+height: 800px;
+}
+ .pTag{
+    font-size: 20px;
+    color: rgb(99, 7, 7);
+    text-align: center;
+ }
